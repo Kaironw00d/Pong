@@ -1,11 +1,13 @@
+using System;
 using System.Collections.Generic;
 using UnityEngine;
 
 public class GameObjectPool : MonoBehaviour
 {
-    [SerializeField] private GameObject prefab;
-
+    private GameObject _prefab;
     private readonly Queue<GameObject> _objects = new Queue<GameObject>();
+
+    private void Awake() => _prefab = Resources.Load<GameObject>("Prefabs/Ball");
 
     public GameObject Get()
     {
@@ -21,8 +23,8 @@ public class GameObjectPool : MonoBehaviour
     }
 
     private void AddObjects(int count)
-    {
-        var newObject = Instantiate(prefab);
+    { 
+        var newObject = Instantiate(_prefab);
         newObject.GetComponent<ITarget>().Pool = this;
         newObject.SetActive(false);
         _objects.Enqueue(newObject);
