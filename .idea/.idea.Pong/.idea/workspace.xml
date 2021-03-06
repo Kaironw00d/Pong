@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="05eb7262-9845-43b4-8d55-de4fe5e05686" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Pong/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Pong/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Pong/.idea/riderModule.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Pong/.idea/vcs.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/BaseGameState.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/MainMenuUI.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/MainMenuState.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Input/GameplayState.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/GameplayState.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/GameplayUI.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/InputActions.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Input/InputService.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Interfaces/IInputService.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Player/CollisionHandler.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/BaseTargetMotor.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/BallMotor.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Game States/GameplayUI.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Interfaces/ITarget.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/GoalTriggerHandler.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Game States/BaseGameState.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Game States/GameManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Game States/GameOverState.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Game States/GameOverUI.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/TargetGameObjectPooled.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Player/ScoreHandler.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerMotor.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Player/InputService.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Game States/SettingUI.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Game States/MainMenuState.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Game States/SettingsState.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Tab System/Tab.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Tab System/TabContent.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Tab System/TabGroup.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Interfaces/ICustomizer.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/BallCustomizer.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Interfaces/ITargetSettings.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/BallSettings.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/BallController.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Game States/GameplayState.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/UI/GameplayUI.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Ball/BallController.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/GameObjectPool.cs" />
+    </changedPaths>
+  </component>
+  <component name="ProjectId" id="1pIyi8hHTrYFiNG1q08bvzMwQXh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="05eb7262-9845-43b4-8d55-de4fe5e05686" name="Default Changelist" comment="" />
+      <created>1614885045741</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614885045741</updated>
+      <workItem from="1614885062766" duration="10973000" />
+      <workItem from="1614901639991" duration="8255000" />
+      <workItem from="1614911660282" duration="927000" />
+      <workItem from="1614955477967" duration="19304000" />
+      <workItem from="1614993822776" duration="7635000" />
+      <workItem from="1615035554475" duration="2122000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>

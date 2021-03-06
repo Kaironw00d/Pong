@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.cache/JetBrains/Rider2020.3/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.cache/JetBrains/Rider2020.3/resharper-host/local/Transient/Rider/v203/SolutionCaches/_Pong.1260820973.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="Ball" t="Include">
+            <e p="BallController.cs" t="Include" />
+            <e p="BallCustomizer.cs" t="Include" />
+            <e p="BallSettings.cs" t="Include" />
+          </e>
+          <e p="Game States" t="Include">
+            <e p="BaseGameState.cs" t="Include" />
+            <e p="GameManager.cs" t="Include" />
+            <e p="GameOverState.cs" t="Include" />
+            <e p="GameplayState.cs" t="Include" />
+            <e p="MainMenuState.cs" t="Include" />
+            <e p="SettingsState.cs" t="Include" />
+          </e>
+          <e p="GameObjectPool.cs" t="Include" />
+          <e p="GoalTriggerHandler.cs" t="Include" />
+          <e p="Input" t="Include">
+            <e p="InputActions.cs" t="Include" />
+          </e>
+          <e p="Interfaces" t="Include">
+            <e p="ICustomizer.cs" t="Include" />
+            <e p="IInputService.cs" t="Include" />
+            <e p="ITarget.cs" t="Include" />
+            <e p="ITargetSettings.cs" t="Include" />
+          </e>
+          <e p="Player" t="Include">
+            <e p="CollisionHandler.cs" t="Include" />
+            <e p="InputService.cs" t="Include" />
+            <e p="PlayerMotor.cs" t="Include" />
+            <e p="ScoreHandler.cs" t="Include" />
+          </e>
+          <e p="Tab System" t="Include">
+            <e p="Tab.cs" t="Include" />
+            <e p="TabContent.cs" t="Include" />
+            <e p="TabGroup.cs" t="Include" />
+          </e>
+          <e p="TargetGameObjectPooled.cs" t="Include" />
+          <e p="UI" t="Include">
+            <e p="GameOverUI.cs" t="Include" />
+            <e p="GameplayUI.cs" t="Include" />
+            <e p="MainMenuUI.cs" t="Include" />
+            <e p="SettingUI.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Pong.sln" t="IncludeFlat" />
+      <e p="Temp/bin" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
