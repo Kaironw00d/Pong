@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="05eb7262-9845-43b4-8d55-de4fe5e05686" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Pong/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Pong/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Pong/.idea/riderModule.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Pong/.idea/vcs.xml" beforeDir="false" />
-    </list>
+    <list default="true" id="05eb7262-9845-43b4-8d55-de4fe5e05686" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -114,6 +109,7 @@
       <workItem from="1614955477967" duration="19304000" />
       <workItem from="1614993822776" duration="7635000" />
       <workItem from="1615035554475" duration="2122000" />
+      <workItem from="1615038117324" duration="119000" />
     </task>
     <servers />
   </component>
