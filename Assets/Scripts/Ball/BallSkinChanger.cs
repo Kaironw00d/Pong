@@ -1,12 +1,12 @@
+using System;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class BallCustomizer : MonoBehaviour, ICustomizer
+public class BallSkinChanger : MonoBehaviour, ISkinChanger
 {
     [SerializeField] private BallSettings ballSettings;
     public ITargetSettings TargetSettings => ballSettings;
-    public Color color;
-    public Gradient trailGradient;
+    [SerializeField] private BallSkin ballSkin;
     
     private Button _button;
 
@@ -18,7 +18,6 @@ public class BallCustomizer : MonoBehaviour, ICustomizer
 
     private void SetCustomization()
     {
-        ballSettings.color = color;
-        ballSettings.trailGradient = trailGradient;
+        PlayerPrefs.SetInt("Ball Skin", ballSkin.indexInDatabase);
     }
 }

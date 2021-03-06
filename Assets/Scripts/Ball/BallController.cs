@@ -20,6 +20,7 @@ public class BallController : MonoBehaviour, ITarget
         _rigidbody = GetComponent<Rigidbody2D>();
         _spriteRenderer = GetComponentInChildren<SpriteRenderer>();
         _trailRenderer = GetComponentInChildren<TrailRenderer>();
+        settings.Init();
     }
 
     private void OnEnable() => Launch();
@@ -39,7 +40,7 @@ public class BallController : MonoBehaviour, ITarget
         _transform.rotation = Quaternion.Euler(settings.SpawnRotation);
         _transform.localScale = Vector3.one * Random.Range(settings.minSize, settings.maxSize);
         _speed = Random.Range(settings.MinSpeed, settings.MaxSpeed);
-        _spriteRenderer.color = settings.color;
-        _trailRenderer.colorGradient = settings.trailGradient;
+        _spriteRenderer.color = settings.GetSkinColor();
+        _trailRenderer.colorGradient = settings.GetSkinGradient();
     }
 }

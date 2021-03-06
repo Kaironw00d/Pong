@@ -9,8 +9,10 @@
         <e p="Scripts" t="Include">
           <e p="Ball" t="Include">
             <e p="BallController.cs" t="Include" />
-            <e p="BallCustomizer.cs" t="Include" />
             <e p="BallSettings.cs" t="Include" />
+            <e p="BallSkin.cs" t="Include" />
+            <e p="BallSkinChanger.cs" t="Include" />
+            <e p="BallSkinsDatabase.cs" t="Include" />
           </e>
           <e p="Game States" t="Include">
             <e p="BaseGameState.cs" t="Include" />
@@ -26,8 +28,8 @@
             <e p="InputActions.cs" t="Include" />
           </e>
           <e p="Interfaces" t="Include">
-            <e p="ICustomizer.cs" t="Include" />
             <e p="IInputService.cs" t="Include" />
+            <e p="ISkinChanger.cs" t="Include" />
             <e p="ITarget.cs" t="Include" />
             <e p="ITargetSettings.cs" t="Include" />
           </e>

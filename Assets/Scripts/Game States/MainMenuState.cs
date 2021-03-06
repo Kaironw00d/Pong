@@ -9,6 +9,7 @@ public class MainMenuState : BaseGameState
         base.Awake();
         mainMenuUI.OnPlayButtonClick += () => ChangeState(GameState.Gameplay);
         mainMenuUI.OnSettingsButtonClick += () => ChangeState(GameState.Settings);
+        mainMenuUI.OnQuitButtonClick += Application.Quit;
     }
 
     protected override void HandleStateChange()

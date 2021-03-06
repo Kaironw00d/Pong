@@ -1,4 +1,4 @@
-public interface ICustomizer
+public interface ISkinChanger
 {
     ITargetSettings TargetSettings { get; }
 }

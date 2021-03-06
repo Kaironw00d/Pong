@@ -518,36 +518,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ballSettings: {fileID: 11400000, guid: b02a9c4899a99ea33b0a99b85251261e, type: 2}
-  color: {r: 1, g: 0.5429851, b: 0.1981132, a: 1}
-  trailGradient:
-    serializedVersion: 2
-    key0: {r: 1, g: 0.69700336, b: 0.4716981, a: 1}
-    key1: {r: 1, g: 1, b: 1, a: 0.60784316}
-    key2: {r: 0, g: 0, b: 0, a: 0}
-    key3: {r: 0, g: 0, b: 0, a: 0}
-    key4: {r: 0, g: 0, b: 0, a: 0}
-    key5: {r: 0, g: 0, b: 0, a: 0}
-    key6: {r: 0, g: 0, b: 0, a: 0}
-    key7: {r: 0, g: 0, b: 0, a: 0}
-    ctime0: 0
-    ctime1: 65535
-    ctime2: 0
-    ctime3: 0
-    ctime4: 0
-    ctime5: 0
-    ctime6: 0
-    ctime7: 0
-    atime0: 0
-    atime1: 65535
-    atime2: 0
-    atime3: 0
-    atime4: 0
-    atime5: 0
-    atime6: 0
-    atime7: 0
-    m_Mode: 0
-    m_NumColorKeys: 2
-    m_NumAlphaKeys: 2
+  ballSkin: {fileID: 11400000, guid: c2fafb7ff2fa2b859b83c46abdfde497, type: 2}
 --- !u!114 &265499322
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -836,36 +807,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ballSettings: {fileID: 11400000, guid: b02a9c4899a99ea33b0a99b85251261e, type: 2}
-  color: {r: 0.6037736, g: 0.9054161, b: 1, a: 1}
-  trailGradient:
-    serializedVersion: 2
-    key0: {r: 0.754717, g: 0.9403366, b: 1, a: 1}
-    key1: {r: 1, g: 1, b: 1, a: 0.60784316}
-    key2: {r: 0, g: 0, b: 0, a: 0}
-    key3: {r: 0, g: 0, b: 0, a: 0}
-    key4: {r: 0, g: 0, b: 0, a: 0}
-    key5: {r: 0, g: 0, b: 0, a: 0}
-    key6: {r: 0, g: 0, b: 0, a: 0}
-    key7: {r: 0, g: 0, b: 0, a: 0}
-    ctime0: 0
-    ctime1: 65535
-    ctime2: 0
-    ctime3: 0
-    ctime4: 0
-    ctime5: 0
-    ctime6: 0
-    ctime7: 0
-    atime0: 0
-    atime1: 65535
-    atime2: 0
-    atime3: 0
-    atime4: 0
-    atime5: 0
-    atime6: 0
-    atime7: 0
-    m_Mode: 0
-    m_NumColorKeys: 2
-    m_NumAlphaKeys: 2
+  ballSkin: {fileID: 11400000, guid: 54888ef5c9da7ebc387f9f0440e7c5a4, type: 2}
 --- !u!114 &310487996
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3220,36 +3162,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ballSettings: {fileID: 11400000, guid: b02a9c4899a99ea33b0a99b85251261e, type: 2}
-  color: {r: 0.6744756, g: 0.3207547, b: 1, a: 1}
-  trailGradient:
-    serializedVersion: 2
-    key0: {r: 0.8076399, g: 0.5990566, b: 1, a: 1}
-    key1: {r: 1, g: 1, b: 1, a: 0.60784316}
-    key2: {r: 0, g: 0, b: 0, a: 0}
-    key3: {r: 0, g: 0, b: 0, a: 0}
-    key4: {r: 0, g: 0, b: 0, a: 0}
-    key5: {r: 0, g: 0, b: 0, a: 0}
-    key6: {r: 0, g: 0, b: 0, a: 0}
-    key7: {r: 0, g: 0, b: 0, a: 0}
-    ctime0: 0
-    ctime1: 65535
-    ctime2: 0
-    ctime3: 0
-    ctime4: 0
-    ctime5: 0
-    ctime6: 0
-    ctime7: 0
-    atime0: 0
-    atime1: 65535
-    atime2: 0
-    atime3: 0
-    atime4: 0
-    atime5: 0
-    atime6: 0
-    atime7: 0
-    m_Mode: 0
-    m_NumColorKeys: 2
-    m_NumAlphaKeys: 2
+  ballSkin: {fileID: 11400000, guid: f8a9388eb47d97f42a1d42cb705b5fae, type: 2}
 --- !u!114 &691075083
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3464,36 +3377,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ballSettings: {fileID: 11400000, guid: b02a9c4899a99ea33b0a99b85251261e, type: 2}
-  color: {r: 1, g: 0.9993106, b: 0, a: 1}
-  trailGradient:
-    serializedVersion: 2
-    key0: {r: 1, g: 1, b: 0.4292453, a: 1}
-    key1: {r: 1, g: 1, b: 1, a: 0.60784316}
-    key2: {r: 0, g: 0, b: 0, a: 0}
-    key3: {r: 0, g: 0, b: 0, a: 0}
-    key4: {r: 0, g: 0, b: 0, a: 0}
-    key5: {r: 0, g: 0, b: 0, a: 0}
-    key6: {r: 0, g: 0, b: 0, a: 0}
-    key7: {r: 0, g: 0, b: 0, a: 0}
-    ctime0: 0
-    ctime1: 65535
-    ctime2: 0
-    ctime3: 0
-    ctime4: 0
-    ctime5: 0
-    ctime6: 0
-    ctime7: 0
-    atime0: 0
-    atime1: 65535
-    atime2: 0
-    atime3: 0
-    atime4: 0
-    atime5: 0
-    atime6: 0
-    atime7: 0
-    m_Mode: 0
-    m_NumColorKeys: 2
-    m_NumAlphaKeys: 2
+  ballSkin: {fileID: 11400000, guid: f79dc9cd1d7c77a8dba2c14a34b2d8fc, type: 2}
 --- !u!114 &726764127
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4175,36 +4059,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ballSettings: {fileID: 11400000, guid: b02a9c4899a99ea33b0a99b85251261e, type: 2}
-  color: {r: 1, g: 0.77186304, b: 0.3160377, a: 1}
-  trailGradient:
-    serializedVersion: 2
-    key0: {r: 1, g: 0.845912, b: 0.5377358, a: 1}
-    key1: {r: 1, g: 1, b: 1, a: 0.60784316}
-    key2: {r: 0, g: 0, b: 0, a: 0}
-    key3: {r: 0, g: 0, b: 0, a: 0}
-    key4: {r: 0, g: 0, b: 0, a: 0}
-    key5: {r: 0, g: 0, b: 0, a: 0}
-    key6: {r: 0, g: 0, b: 0, a: 0}
-    key7: {r: 0, g: 0, b: 0, a: 0}
-    ctime0: 0
-    ctime1: 65535
-    ctime2: 0
-    ctime3: 0
-    ctime4: 0
-    ctime5: 0
-    ctime6: 0
-    ctime7: 0
-    atime0: 0
-    atime1: 65535
-    atime2: 0
-    atime3: 0
-    atime4: 0
-    atime5: 0
-    atime6: 0
-    atime7: 0
-    m_Mode: 0
-    m_NumColorKeys: 2
-    m_NumAlphaKeys: 2
+  ballSkin: {fileID: 11400000, guid: 7da7529bc61c3b39090643f791cac425, type: 2}
 --- !u!114 &878236751
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4338,36 +4193,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ballSettings: {fileID: 11400000, guid: b02a9c4899a99ea33b0a99b85251261e, type: 2}
-  color: {r: 0.3773585, g: 1, b: 0.8766273, a: 1}
-  trailGradient:
-    serializedVersion: 2
-    key0: {r: 0.6462264, g: 1, b: 0.9310252, a: 1}
-    key1: {r: 1, g: 1, b: 1, a: 0.60784316}
-    key2: {r: 0, g: 0, b: 0, a: 0}
-    key3: {r: 0, g: 0, b: 0, a: 0}
-    key4: {r: 0, g: 0, b: 0, a: 0}
-    key5: {r: 0, g: 0, b: 0, a: 0}
-    key6: {r: 0, g: 0, b: 0, a: 0}
-    key7: {r: 0, g: 0, b: 0, a: 0}
-    ctime0: 0
-    ctime1: 65535
-    ctime2: 0
-    ctime3: 0
-    ctime4: 0
-    ctime5: 0
-    ctime6: 0
-    ctime7: 0
-    atime0: 0
-    atime1: 65535
-    atime2: 0
-    atime3: 0
-    atime4: 0
-    atime5: 0
-    atime6: 0
-    atime7: 0
-    m_Mode: 0
-    m_NumColorKeys: 2
-    m_NumAlphaKeys: 2
+  ballSkin: {fileID: 11400000, guid: 5ac60936e39332f4a8b7f04a4f8c8bf6, type: 2}
 --- !u!114 &883906545
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4871,36 +4697,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ballSettings: {fileID: 11400000, guid: b02a9c4899a99ea33b0a99b85251261e, type: 2}
-  color: {r: 1, g: 0.25398004, b: 0.19339621, a: 1}
-  trailGradient:
-    serializedVersion: 2
-    key0: {r: 1, g: 0.560588, b: 0.5235849, a: 1}
-    key1: {r: 1, g: 1, b: 1, a: 0.60784316}
-    key2: {r: 0, g: 0, b: 0, a: 0}
-    key3: {r: 0, g: 0, b: 0, a: 0}
-    key4: {r: 0, g: 0, b: 0, a: 0}
-    key5: {r: 0, g: 0, b: 0, a: 0}
-    key6: {r: 0, g: 0, b: 0, a: 0}
-    key7: {r: 0, g: 0, b: 0, a: 0}
-    ctime0: 0
-    ctime1: 65535
-    ctime2: 0
-    ctime3: 0
-    ctime4: 0
-    ctime5: 0
-    ctime6: 0
-    ctime7: 0
-    atime0: 0
-    atime1: 65535
-    atime2: 0
-    atime3: 0
-    atime4: 0
-    atime5: 0
-    atime6: 0
-    atime7: 0
-    m_Mode: 0
-    m_NumColorKeys: 2
-    m_NumAlphaKeys: 2
+  ballSkin: {fileID: 11400000, guid: 932dfca23ab6811bea311ff00667e6dd, type: 2}
 --- !u!114 &980595401
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5118,6 +4915,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   playButton: {fileID: 1559286967}
   settingsButton: {fileID: 1519203370}
+  quitButton: {fileID: 1627218032}
 --- !u!1 &1021909259
 GameObject:
   m_ObjectHideFlags: 0
@@ -5346,36 +5144,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ballSettings: {fileID: 11400000, guid: b02a9c4899a99ea33b0a99b85251261e, type: 2}
-  color: {r: 1, g: 0.3254717, b: 0.89808095, a: 1}
-  trailGradient:
-    serializedVersion: 2
-    key0: {r: 1, g: 0.6273585, b: 0.9436705, a: 1}
-    key1: {r: 1, g: 1, b: 1, a: 0.60784316}
-    key2: {r: 0, g: 0, b: 0, a: 0}
-    key3: {r: 0, g: 0, b: 0, a: 0}
-    key4: {r: 0, g: 0, b: 0, a: 0}
-    key5: {r: 0, g: 0, b: 0, a: 0}
-    key6: {r: 0, g: 0, b: 0, a: 0}
-    key7: {r: 0, g: 0, b: 0, a: 0}
-    ctime0: 0
-    ctime1: 65535
-    ctime2: 0
-    ctime3: 0
-    ctime4: 0
-    ctime5: 0
-    ctime6: 0
-    ctime7: 0
-    atime0: 0
-    atime1: 65535
-    atime2: 0
-    atime3: 0
-    atime4: 0
-    atime5: 0
-    atime6: 0
-    atime7: 0
-    m_Mode: 0
-    m_NumColorKeys: 2
-    m_NumAlphaKeys: 2
+  ballSkin: {fileID: 11400000, guid: 5d5a5dad2a4aa01d299a754292cb9421, type: 2}
 --- !u!114 &1068733459
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6583,36 +6352,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ballSettings: {fileID: 11400000, guid: b02a9c4899a99ea33b0a99b85251261e, type: 2}
-  color: {r: 0.3096416, g: 0.9528302, b: 0.29663584, a: 1}
-  trailGradient:
-    serializedVersion: 2
-    key0: {r: 0.5228788, g: 1, b: 0.514151, a: 1}
-    key1: {r: 1, g: 1, b: 1, a: 0.60784316}
-    key2: {r: 0, g: 0, b: 0, a: 0}
-    key3: {r: 0, g: 0, b: 0, a: 0}
-    key4: {r: 0, g: 0, b: 0, a: 0}
-    key5: {r: 0, g: 0, b: 0, a: 0}
-    key6: {r: 0, g: 0, b: 0, a: 0}
-    key7: {r: 0, g: 0, b: 0, a: 0}
-    ctime0: 0
-    ctime1: 65535
-    ctime2: 0
-    ctime3: 0
-    ctime4: 0
-    ctime5: 0
-    ctime6: 0
-    ctime7: 0
-    atime0: 0
-    atime1: 65535
-    atime2: 0
-    atime3: 0
-    atime4: 0
-    atime5: 0
-    atime6: 0
-    atime7: 0
-    m_Mode: 0
-    m_NumColorKeys: 2
-    m_NumAlphaKeys: 2
+  ballSkin: {fileID: 11400000, guid: a31f06b3d0a2ce61ea7a5be9e5d5a9e0, type: 2}
 --- !u!114 &1268436210
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6820,36 +6560,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ballSettings: {fileID: 11400000, guid: b02a9c4899a99ea33b0a99b85251261e, type: 2}
-  color: {r: 0.7657566, g: 1, b: 0, a: 1}
-  trailGradient:
-    serializedVersion: 2
-    key0: {r: 0.87236404, g: 1, b: 0.4575472, a: 1}
-    key1: {r: 1, g: 1, b: 1, a: 0.60784316}
-    key2: {r: 0, g: 0, b: 0, a: 0}
-    key3: {r: 0, g: 0, b: 0, a: 0}
-    key4: {r: 0, g: 0, b: 0, a: 0}
-    key5: {r: 0, g: 0, b: 0, a: 0}
-    key6: {r: 0, g: 0, b: 0, a: 0}
-    key7: {r: 0, g: 0, b: 0, a: 0}
-    ctime0: 0
-    ctime1: 65535
-    ctime2: 0
-    ctime3: 0
-    ctime4: 0
-    ctime5: 0
-    ctime6: 0
-    ctime7: 0
-    atime0: 0
-    atime1: 65535
-    atime2: 0
-    atime3: 0
-    atime4: 0
-    atime5: 0
-    atime6: 0
-    atime7: 0
-    m_Mode: 0
-    m_NumColorKeys: 2
-    m_NumAlphaKeys: 2
+  ballSkin: {fileID: 11400000, guid: 5266f1f588a54234e98bf8cafb12becd, type: 2}
 --- !u!114 &1344105759
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7573,7 +7284,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -100}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 450, y: 120}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1519203370
@@ -7946,6 +7657,84 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   tabContentIndex: 1
+--- !u!1 &1554037687
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1554037688}
+  - component: {fileID: 1554037690}
+  - component: {fileID: 1554037689}
+  m_Layer: 5
+  m_Name: Text
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1554037688
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1554037687}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1627218031}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1554037689
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1554037687}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 0
+  m_Maskable: 0
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_FontData:
+    m_Font: {fileID: 12800000, guid: 8a143824ef50ae3d3aeb5eb8b42ad574, type: 3}
+    m_FontSize: 70
+    m_FontStyle: 0
+    m_BestFit: 0
+    m_MinSize: 7
+    m_MaxSize: 83
+    m_Alignment: 4
+    m_AlignByGeometry: 0
+    m_RichText: 0
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: Quit
+--- !u!222 &1554037690
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1554037687}
+  m_CullTransparentMesh: 0
 --- !u!1 &1554701148
 GameObject:
   m_ObjectHideFlags: 0
@@ -8045,7 +7834,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 100}
+  m_AnchoredPosition: {x: 0, y: 150}
   m_SizeDelta: {x: 450, y: 120}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1559286967
@@ -8127,6 +7916,125 @@ CanvasRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1559286965}
+  m_CullTransparentMesh: 0
+--- !u!1 &1627218030
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1627218031}
+  - component: {fileID: 1627218034}
+  - component: {fileID: 1627218033}
+  - component: {fileID: 1627218032}
+  m_Layer: 5
+  m_Name: Quit Button
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1627218031
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1627218030}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1554037688}
+  m_Father: {fileID: 2071252745}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: -150}
+  m_SizeDelta: {x: 450, y: 120}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1627218032
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1627218030}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Navigation:
+    m_Mode: 3
+    m_SelectOnUp: {fileID: 0}
+    m_SelectOnDown: {fileID: 0}
+    m_SelectOnLeft: {fileID: 0}
+    m_SelectOnRight: {fileID: 0}
+  m_Transition: 1
+  m_Colors:
+    m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
+    m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
+    m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
+    m_SelectedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
+    m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
+    m_ColorMultiplier: 1
+    m_FadeDuration: 0.1
+  m_SpriteState:
+    m_HighlightedSprite: {fileID: 0}
+    m_PressedSprite: {fileID: 0}
+    m_SelectedSprite: {fileID: 0}
+    m_DisabledSprite: {fileID: 0}
+  m_AnimationTriggers:
+    m_NormalTrigger: Normal
+    m_HighlightedTrigger: Highlighted
+    m_PressedTrigger: Pressed
+    m_SelectedTrigger: Selected
+    m_DisabledTrigger: Disabled
+  m_Interactable: 1
+  m_TargetGraphic: {fileID: 1627218033}
+  m_OnClick:
+    m_PersistentCalls:
+      m_Calls: []
+--- !u!114 &1627218033
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1627218030}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 21300000, guid: 0a2d7ac34fc56299695867b0a4925425, type: 3}
+  m_Type: 1
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 0.5
+--- !u!222 &1627218034
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1627218030}
   m_CullTransparentMesh: 0
 --- !u!1 &1633888605
 GameObject:
@@ -8218,36 +8126,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ballSettings: {fileID: 11400000, guid: b02a9c4899a99ea33b0a99b85251261e, type: 2}
-  color: {r: 0.18155926, g: 0.754717, b: 0.21015795, a: 1}
-  trailGradient:
-    serializedVersion: 2
-    key0: {r: 0.42986828, g: 0.7924528, b: 0.44973594, a: 1}
-    key1: {r: 1, g: 1, b: 1, a: 0.60784316}
-    key2: {r: 0, g: 0, b: 0, a: 0}
-    key3: {r: 0, g: 0, b: 0, a: 0}
-    key4: {r: 0, g: 0, b: 0, a: 0}
-    key5: {r: 0, g: 0, b: 0, a: 0}
-    key6: {r: 0, g: 0, b: 0, a: 0}
-    key7: {r: 0, g: 0, b: 0, a: 0}
-    ctime0: 0
-    ctime1: 65535
-    ctime2: 0
-    ctime3: 0
-    ctime4: 0
-    ctime5: 0
-    ctime6: 0
-    ctime7: 0
-    atime0: 0
-    atime1: 65535
-    atime2: 0
-    atime3: 0
-    atime4: 0
-    atime5: 0
-    atime6: 0
-    atime7: 0
-    m_Mode: 0
-    m_NumColorKeys: 2
-    m_NumAlphaKeys: 2
+  ballSkin: {fileID: 11400000, guid: d8cc67291455c7ea381b1bf858b92d9c, type: 2}
 --- !u!114 &1633888610
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8768,36 +8647,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ballSettings: {fileID: 11400000, guid: b02a9c4899a99ea33b0a99b85251261e, type: 2}
-  color: {r: 0.7045236, g: 0.6037736, b: 1, a: 1}
-  trailGradient:
-    serializedVersion: 2
-    key0: {r: 0.8668971, g: 0.8207547, b: 1, a: 1}
-    key1: {r: 1, g: 1, b: 1, a: 0.60784316}
-    key2: {r: 0, g: 0, b: 0, a: 0}
-    key3: {r: 0, g: 0, b: 0, a: 0}
-    key4: {r: 0, g: 0, b: 0, a: 0}
-    key5: {r: 0, g: 0, b: 0, a: 0}
-    key6: {r: 0, g: 0, b: 0, a: 0}
-    key7: {r: 0, g: 0, b: 0, a: 0}
-    ctime0: 0
-    ctime1: 65535
-    ctime2: 0
-    ctime3: 0
-    ctime4: 0
-    ctime5: 0
-    ctime6: 0
-    ctime7: 0
-    atime0: 0
-    atime1: 65535
-    atime2: 0
-    atime3: 0
-    atime4: 0
-    atime5: 0
-    atime6: 0
-    atime7: 0
-    m_Mode: 0
-    m_NumColorKeys: 2
-    m_NumAlphaKeys: 2
+  ballSkin: {fileID: 11400000, guid: 18845191ae347129a8f0c4e2b7d6eee4, type: 2}
 --- !u!114 &1818756382
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9335,36 +9185,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ballSettings: {fileID: 11400000, guid: b02a9c4899a99ea33b0a99b85251261e, type: 2}
-  color: {r: 1, g: 0.504717, b: 0.64589524, a: 1}
-  trailGradient:
-    serializedVersion: 2
-    key0: {r: 1, g: 0.6933962, b: 0.7809973, a: 1}
-    key1: {r: 1, g: 1, b: 1, a: 0.60784316}
-    key2: {r: 0, g: 0, b: 0, a: 0}
-    key3: {r: 0, g: 0, b: 0, a: 0}
-    key4: {r: 0, g: 0, b: 0, a: 0}
-    key5: {r: 0, g: 0, b: 0, a: 0}
-    key6: {r: 0, g: 0, b: 0, a: 0}
-    key7: {r: 0, g: 0, b: 0, a: 0}
-    ctime0: 0
-    ctime1: 65535
-    ctime2: 0
-    ctime3: 0
-    ctime4: 0
-    ctime5: 0
-    ctime6: 0
-    ctime7: 0
-    atime0: 0
-    atime1: 65535
-    atime2: 0
-    atime3: 0
-    atime4: 0
-    atime5: 0
-    atime6: 0
-    atime7: 0
-    m_Mode: 0
-    m_NumColorKeys: 2
-    m_NumAlphaKeys: 2
+  ballSkin: {fileID: 11400000, guid: e72537829448e59b8b6dbbc05f8c5f82, type: 2}
 --- !u!114 &1883679630
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9688,36 +9509,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ballSettings: {fileID: 11400000, guid: b02a9c4899a99ea33b0a99b85251261e, type: 2}
-  color: {r: 0.3726415, g: 0.39360967, b: 1, a: 1}
-  trailGradient:
-    serializedVersion: 2
-    key0: {r: 0.6320754, g: 0.6435731, b: 1, a: 1}
-    key1: {r: 1, g: 1, b: 1, a: 0.60784316}
-    key2: {r: 0, g: 0, b: 0, a: 0}
-    key3: {r: 0, g: 0, b: 0, a: 0}
-    key4: {r: 0, g: 0, b: 0, a: 0}
-    key5: {r: 0, g: 0, b: 0, a: 0}
-    key6: {r: 0, g: 0, b: 0, a: 0}
-    key7: {r: 0, g: 0, b: 0, a: 0}
-    ctime0: 0
-    ctime1: 65535
-    ctime2: 0
-    ctime3: 0
-    ctime4: 0
-    ctime5: 0
-    ctime6: 0
-    ctime7: 0
-    atime0: 0
-    atime1: 65535
-    atime2: 0
-    atime3: 0
-    atime4: 0
-    atime5: 0
-    atime6: 0
-    atime7: 0
-    m_Mode: 0
-    m_NumColorKeys: 2
-    m_NumAlphaKeys: 2
+  ballSkin: {fileID: 11400000, guid: 30b814ae286cbe64cb5658fea824f58a, type: 2}
 --- !u!114 &1968184981
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10278,6 +10070,7 @@ RectTransform:
   m_Children:
   - {fileID: 1559286966}
   - {fileID: 1519203369}
+  - {fileID: 1627218031}
   m_Father: {fileID: 1013721946}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -10551,36 +10344,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ballSettings: {fileID: 11400000, guid: b02a9c4899a99ea33b0a99b85251261e, type: 2}
-  color: {r: 0.042452812, g: 0.75449574, b: 1, a: 1}
-  trailGradient:
-    serializedVersion: 2
-    key0: {r: 0.42352942, g: 0.8509804, b: 1, a: 1}
-    key1: {r: 1, g: 1, b: 1, a: 0.60784316}
-    key2: {r: 0, g: 0, b: 0, a: 0}
-    key3: {r: 0, g: 0, b: 0, a: 0}
-    key4: {r: 0, g: 0, b: 0, a: 0}
-    key5: {r: 0, g: 0, b: 0, a: 0}
-    key6: {r: 0, g: 0, b: 0, a: 0}
-    key7: {r: 0, g: 0, b: 0, a: 0}
-    ctime0: 0
-    ctime1: 65535
-    ctime2: 0
-    ctime3: 0
-    ctime4: 0
-    ctime5: 0
-    ctime6: 0
-    ctime7: 0
-    atime0: 0
-    atime1: 65535
-    atime2: 0
-    atime3: 0
-    atime4: 0
-    atime5: 0
-    atime6: 0
-    atime7: 0
-    m_Mode: 0
-    m_NumColorKeys: 2
-    m_NumAlphaKeys: 2
+  ballSkin: {fileID: 11400000, guid: fd2442252224626ceb88cc1e326ceac6, type: 2}
 --- !u!114 &2147266312
 MonoBehaviour:
   m_ObjectHideFlags: 0

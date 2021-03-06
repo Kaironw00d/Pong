@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="05eb7262-9845-43b4-8d55-de4fe5e05686" name="Default Changelist" comment="" />
+    <list default="true" id="05eb7262-9845-43b4-8d55-de4fe5e05686" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Ball/BallSkin.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Ball/BallSkin.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Ball/BallSkinsDatabase.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Ball/BallSkinsDatabase.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Pong/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Pong/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Pong/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Pong/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MainScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MainScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Ball/BallController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Ball/BallController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Ball/BallCustomizer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Ball/BallSkinChanger.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Ball/BallCustomizer.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Ball/BallSkinChanger.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Ball/BallSettings.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Ball/BallSettings.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Game States/MainMenuState.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Game States/MainMenuState.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Interfaces/ICustomizer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Interfaces/ISkinChanger.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Interfaces/ICustomizer.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Interfaces/ISkinChanger.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UI/MainMenuUI.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/UI/MainMenuUI.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Settings/Ball Settings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Settings/Ball Settings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/UI/Pack 2/yellow_button00.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/UI/Pack 2/yellow_button00.png.meta" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,24 +59,33 @@
       <option value="$PROJECT_DIR$/Assets/Scripts/Game States/GameOverState.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Game States/GameOverUI.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/TargetGameObjectPooled.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/Player/ScoreHandler.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerMotor.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Player/InputService.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Game States/SettingUI.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/Game States/MainMenuState.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Game States/SettingsState.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Tab System/Tab.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Tab System/TabContent.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Tab System/TabGroup.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/Interfaces/ICustomizer.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/BallCustomizer.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Interfaces/ITargetSettings.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/BallSettings.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/BallController.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Game States/GameplayState.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/UI/GameplayUI.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/Ball/BallController.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/GameObjectPool.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Player/ScoreHandler.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/UI/MainMenuUI.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Game States/MainMenuState.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Ball/BallCustomizer.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Ball/BallCustomizationHandler.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Interfaces/ICustomizer.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Ball/BallCustomizationDatabase.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Interfaces/ISkinChanger.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Ball/BallSkinChanger.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Ball/BallSkinsDatabase.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Ball/BallController.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Ball/BallSettings.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Ball/BallSkin.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1pIyi8hHTrYFiNG1q08bvzMwQXh" />
@@ -110,6 +137,7 @@
       <workItem from="1614993822776" duration="7635000" />
       <workItem from="1615035554475" duration="2122000" />
       <workItem from="1615038117324" duration="119000" />
+      <workItem from="1615038915847" duration="7782000" />
     </task>
     <servers />
   </component>
