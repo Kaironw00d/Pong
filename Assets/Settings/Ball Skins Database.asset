@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b679583c8aff4b6095815abe0b91dd4c, type: 3}
   m_Name: Ball Skins Database
   m_EditorClassIdentifier: 
-  ballSkins:
+  skinsList:
   - {fileID: 11400000, guid: fd2442252224626ceb88cc1e326ceac6, type: 2}
   - {fileID: 11400000, guid: a31f06b3d0a2ce61ea7a5be9e5d5a9e0, type: 2}
   - {fileID: 11400000, guid: 7da7529bc61c3b39090643f791cac425, type: 2}

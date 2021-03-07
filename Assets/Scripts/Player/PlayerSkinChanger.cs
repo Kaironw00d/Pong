@@ -1,13 +1,13 @@
 using UnityEngine;
 using UnityEngine.UI;
 
-public class BallSkinChanger : MonoBehaviour, ISkinChanger
+public class PlayerSkinChanger : MonoBehaviour, ISkinChanger
 {
     [SerializeField] private PlayerPrefsKey playerPrefsKey;
     public PlayerPrefsKey PlayerPrefsKey => playerPrefsKey;
-    [SerializeField] private BallSkin ballSkin;
-    public ISkin Skin => ballSkin;
-    
+    [SerializeField] private PlayerSkin playerSkin;
+    public ISkin Skin => playerSkin;
+
     private Button _button;
 
     private void Awake()

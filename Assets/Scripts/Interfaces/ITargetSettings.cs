@@ -1,9 +1,8 @@
-using UnityEngine;
-
-public interface ITargetSettings
+public interface ITargetSettings : ISettings
 {
+    BaseSkinDatabase<BallSkin> SkinsDatabase { get; }
     float MinSpeed { get; }
     float MaxSpeed { get; }
-    Vector3 SpawnPosition { get; }
-    Vector3 SpawnRotation { get; }
+    float MinSize { get; }
+    float MaxSize { get; }
 }

@@ -14,6 +14,7 @@
             <e p="BallSkinChanger.cs" t="Include" />
             <e p="BallSkinsDatabase.cs" t="Include" />
           </e>
+          <e p="BaseSkinDatabase.cs" t="Include" />
           <e p="Game States" t="Include">
             <e p="BaseGameState.cs" t="Include" />
             <e p="GameManager.cs" t="Include" />
@@ -29,6 +30,9 @@
           </e>
           <e p="Interfaces" t="Include">
             <e p="IInputService.cs" t="Include" />
+            <e p="IPlayerSettings.cs" t="Include" />
+            <e p="ISettings.cs" t="Include" />
+            <e p="ISkin.cs" t="Include" />
             <e p="ISkinChanger.cs" t="Include" />
             <e p="ITarget.cs" t="Include" />
             <e p="ITargetSettings.cs" t="Include" />
@@ -36,7 +40,11 @@
           <e p="Player" t="Include">
             <e p="CollisionHandler.cs" t="Include" />
             <e p="InputService.cs" t="Include" />
-            <e p="PlayerMotor.cs" t="Include" />
+            <e p="PlayerController.cs" t="Include" />
+            <e p="PlayerSettings.cs" t="Include" />
+            <e p="PlayerSkin.cs" t="Include" />
+            <e p="PlayerSkinChanger.cs" t="Include" />
+            <e p="PlayerSkinsDatabase.cs" t="Include" />
             <e p="ScoreHandler.cs" t="Include" />
           </e>
           <e p="Tab System" t="Include">

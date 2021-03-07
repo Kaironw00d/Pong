@@ -1,4 +1,6 @@
 public interface ISkinChanger
 {
-    ITargetSettings TargetSettings { get; }
+    PlayerPrefsKey PlayerPrefsKey { get; }
+    ISkin Skin { get; }
+    void SetSkin();
 }

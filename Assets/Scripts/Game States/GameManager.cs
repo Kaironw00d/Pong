@@ -10,6 +10,13 @@ public enum GameState
     GameOver
 }
 
+public enum PlayerPrefsKey
+{
+    Player1Skin,
+    Player2Skin,
+    BallSkin
+}
+
 public class GameManager : MonoBehaviour
 {
     public delegate void OnStateChangeHandler();
