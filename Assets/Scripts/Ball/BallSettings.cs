@@ -30,4 +30,13 @@ public class BallSettings : ScriptableObject, ITargetSettings
     {
         return SkinsDatabase.Skins[PlayerPrefs.GetInt(PlayerPrefsKey.BallSkin.ToString(), 0)].trailGradient;
     }
+
+    public Color GetFirstExplosionColor()
+    {
+        return SkinsDatabase.Skins[PlayerPrefs.GetInt(PlayerPrefsKey.BallSkin.ToString(), 0)].firstExplosionColor;
+    }
+    public Color GetSecondExplosionColor()
+    {
+        return SkinsDatabase.Skins[PlayerPrefs.GetInt(PlayerPrefsKey.BallSkin.ToString(), 0)].secondExplosionColor;
+    }
 }

@@ -10,9 +10,21 @@ public class GameOverUI : MonoBehaviour
     [SerializeField] private Button repeatButton;
     [SerializeField] private Button mainMenuButton;
 
-    private void Start()
+    private IAudioService _audioService;
+
+    private void Awake()
     {
-        repeatButton.onClick.AddListener(() => OnRepeatButtonClick?.Invoke());
-        mainMenuButton.onClick.AddListener(() => OnMainMenuButtonClick?.Invoke());
+        _audioService = GameObject.FindWithTag("Audio Service").GetComponent<IAudioService>();
+        
+        repeatButton.onClick.AddListener(() =>
+        {
+            OnRepeatButtonClick?.Invoke();
+            _audioService.Play(repeatButton.GetComponent<SoundSource>().soundType);
+        });
+        mainMenuButton.onClick.AddListener(() =>
+        {
+            OnMainMenuButtonClick?.Invoke();
+            _audioService.Play(mainMenuButton.GetComponent<SoundSource>().soundType);
+        });
     }
 }

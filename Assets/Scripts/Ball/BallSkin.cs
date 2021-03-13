@@ -7,9 +7,6 @@ public class BallSkin : ScriptableObject, ISkin
     public int IndexInDatabase => indexInDatabase;
     public Color skinColor;
     public Gradient trailGradient;
-
-    // private void OnValidate()
-    // {
-    //     trailGradient.SetKeys(new [] {new GradientColorKey(skinColor, 0), new GradientColorKey(Color.white, 1) }, new [] { new GradientAlphaKey(255, 0), new GradientAlphaKey(155, 1) });
-    // }
+    public Color firstExplosionColor;
+    public Color secondExplosionColor;
 }

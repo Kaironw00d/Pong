@@ -2,37 +2,68 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="05eb7262-9845-43b4-8d55-de4fe5e05686" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/BaseSkinDatabase.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/BaseSkinDatabase.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Interfaces/IPlayerSettings.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Interfaces/IPlayerSettings.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Interfaces/ISettings.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Interfaces/ISettings.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Interfaces/ISkin.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Interfaces/ISkin.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Player/PlayerSettings.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Player/PlayerSettings.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Player/PlayerSkin.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Player/PlayerSkin.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Player/PlayerSkinChanger.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Player/PlayerSkinChanger.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Player/PlayerSkinsDatabase.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Player/PlayerSkinsDatabase.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Audio/AudioService.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Audio/AudioService.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Audio/Sound.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Audio/Sound.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Audio/SoundSource.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Audio/SoundSource.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Interfaces/IAudioService.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Interfaces/IAudioService.cs.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Pong/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Pong/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Pong/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Pong/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Prefabs/Ball.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Prefabs/Ball.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Skins/Ball/Ball Skin 1.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Skins/Ball/Ball Skin 1.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Skins/Ball/Ball Skin 10.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Skins/Ball/Ball Skin 10.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Skins/Ball/Ball Skin 11.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Skins/Ball/Ball Skin 11.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Skins/Ball/Ball Skin 12.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Skins/Ball/Ball Skin 12.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Skins/Ball/Ball Skin 13.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Skins/Ball/Ball Skin 13.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Skins/Ball/Ball Skin 14.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Skins/Ball/Ball Skin 14.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Skins/Ball/Ball Skin 2.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Skins/Ball/Ball Skin 2.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Skins/Ball/Ball Skin 3.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Skins/Ball/Ball Skin 3.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Skins/Ball/Ball Skin 4.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Skins/Ball/Ball Skin 4.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Skins/Ball/Ball Skin 5.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Skins/Ball/Ball Skin 5.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Skins/Ball/Ball Skin 6.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Skins/Ball/Ball Skin 6.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Skins/Ball/Ball Skin 7.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Skins/Ball/Ball Skin 7.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Skins/Ball/Ball Skin 8.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Skins/Ball/Ball Skin 8.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Skins/Ball/Ball Skin 9.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Skins/Ball/Ball Skin 9.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Skins/Ball/Ball Skin.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Skins/Ball/Ball Skin.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/MainScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MainScene.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/Ball/BallController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Ball/BallController.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/Ball/BallSettings.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Ball/BallSettings.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/Ball/BallSkin.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Ball/BallSkin.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Ball/BallSkinChanger.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Ball/BallSkinChanger.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Ball/BallSkinsDatabase.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Ball/BallSkinsDatabase.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Game States/GameManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Game States/GameManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/GameObjectPool.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/GameObjectPool.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Interfaces/ISkinChanger.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Interfaces/ISkinChanger.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Interfaces/ITargetSettings.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Interfaces/ITargetSettings.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Player/PlayerMotor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Player/PlayerController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Player/PlayerMotor.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Player/PlayerController.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Settings/Ball Skins Database.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Settings/Ball Skins Database.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Game States/SettingsState.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Game States/ShopState.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Game States/SettingsState.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Game States/ShopState.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Tab System/Tab.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Tab System/Tab.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UI/GameOverUI.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/UI/GameOverUI.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UI/GameplayUI.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/UI/GameplayUI.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UI/MainMenuUI.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/UI/MainMenuUI.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UI/SettingUI.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/UI/ShopUI.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UI/SettingUI.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/UI/ShopUI.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/UI/Pack 1/glassPanel.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/UI/Pack 1/glassPanel.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/UI/Pack 1/glassPanel_cornerTL.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/UI/Pack 1/glassPanel_cornerTL.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/UI/Pack 1/metalPanel_red.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/UI/Pack 1/metalPanel_red.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/UI/Pack 1/metalPanel_redCorner.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/UI/Pack 1/metalPanel_redCorner.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/UI/Pack 2/blue_button02.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/UI/Pack 2/blue_button02.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/UI/Pack 2/blue_button09.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/UI/Pack 2/blue_button09.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/UI/Pack 2/green_button02.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/UI/Pack 2/green_button02.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/UI/Pack 2/grey_box.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/UI/Pack 2/grey_box.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/UI/Pack 2/red_boxCheckmark.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/UI/Pack 2/red_boxCheckmark.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/UI/Pack 2/red_boxTick.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/UI/Pack 2/red_boxTick.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/UI/Pack 2/red_button06.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/UI/Pack 2/red_button06.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/UI/Pack 2/red_button10.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/UI/Pack 2/red_button10.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/UI/Pack 2/red_tick.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/UI/Pack 2/red_tick.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/UI/Pack 2/yellow_button02.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/UI/Pack 2/yellow_button02.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/UI/bg_1_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/UI/bg_1_1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/UI/return.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/UI/return.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/UI/shadedLight26.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/UI/shadedLight26.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/UI/shadedLight27.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/UI/shadedLight27.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,35 +83,23 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/99258562-0D64-4271-98DD-F3A0E1467733/b6/27455d76/Dictionary`2.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7EBB9D86-1872-437F-96B6-F17B8001B201/08/0ca7c710/GameObject.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
-      <option value="$PROJECT_DIR$/Assets/Scripts/InputActions.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/Input/InputService.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/Interfaces/IInputService.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/Player/CollisionHandler.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/BaseTargetMotor.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/BallMotor.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/Game States/GameplayUI.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/Interfaces/ITarget.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/GoalTriggerHandler.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/Game States/BaseGameState.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Game States/GameOverState.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Game States/GameOverUI.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/TargetGameObjectPooled.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Player/InputService.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Game States/SettingUI.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Game States/SettingsState.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/Tab System/Tab.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Tab System/TabContent.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Tab System/TabGroup.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/BallCustomizer.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/BallSettings.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/BallController.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Game States/GameplayState.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/UI/GameplayUI.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Player/ScoreHandler.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/UI/MainMenuUI.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Game States/MainMenuState.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Ball/BallCustomizer.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Ball/BallCustomizationHandler.cs" />
@@ -90,22 +109,35 @@
       <option value="$PROJECT_DIR$/Assets/Scripts/Ball/ISkin.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Interfaces/ISkin.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerSkin.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/Ball/BallSkin.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Interfaces/ISkinChanger.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Ball/BallSkinChanger.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Game States/GameManager.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerSkinChanger.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerMotor.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/Ball/BallController.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerSkinsDatabase.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Ball/BallSkinsDatabase.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/BaseSkinDatabase.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Interfaces/ISettings.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Interfaces/ITargetSettings.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Interfaces/IPlayerSettings.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/Ball/BallSettings.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerController.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerSettings.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/BackgroundParalax.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Ball/BallSkin.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Ball/BallSettings.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Audio/IAudioService.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/UI/SettingUI.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Ball/BallController.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Game States/ShopState.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Tab System/Tab.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Audio/SoundSource.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/UI/ShopUI.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/UI/GameOverUI.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/UI/GameplayUI.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Audio/Sound.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Interfaces/IAudioService.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/UI/MainMenuUI.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Audio/AudioService.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1pIyi8hHTrYFiNG1q08bvzMwQXh" />
@@ -158,7 +190,11 @@
       <workItem from="1615035554475" duration="2122000" />
       <workItem from="1615038117324" duration="119000" />
       <workItem from="1615038915847" duration="9426000" />
-      <workItem from="1615073505992" duration="8321000" />
+      <workItem from="1615073505992" duration="8700000" />
+      <workItem from="1615495225876" duration="13655000" />
+      <workItem from="1615550565160" duration="1836000" />
+      <workItem from="1615578107582" duration="6229000" />
+      <workItem from="1615638706925" duration="9971000" />
     </task>
     <servers />
   </component>

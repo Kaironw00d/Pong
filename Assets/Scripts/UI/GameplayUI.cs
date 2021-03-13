@@ -10,10 +10,18 @@ public class GameplayUI : MonoBehaviour
     [SerializeField] private Text maxScoreText;
     [SerializeField] private Button mainMenuButton;
 
+    private IAudioService _audioService;
+
     private void Awake()
     {
-        scoreHandler.OnCurrentScoreChange += value => currentScoreText.text = value.ToString();
-        scoreHandler.OnMaxScoreChange += value => maxScoreText.text = value.ToString();
-        mainMenuButton.onClick.AddListener(() => OnMainMenuButtonClick?.Invoke());
+        _audioService = GameObject.FindWithTag("Audio Service").GetComponent<IAudioService>();
+        
+        scoreHandler.OnCurrentScoreChange += value => currentScoreText.text = $"Current: {value.ToString()}";
+        scoreHandler.OnMaxScoreChange += value => maxScoreText.text = $"Best: {value.ToString()}";
+        mainMenuButton.onClick.AddListener(() =>
+        {
+            OnMainMenuButtonClick?.Invoke();
+            _audioService.Play(mainMenuButton.GetComponent<SoundSource>().soundType);
+        });
     }
 }

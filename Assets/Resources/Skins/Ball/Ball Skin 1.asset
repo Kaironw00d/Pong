@@ -17,7 +17,7 @@ MonoBehaviour:
   trailGradient:
     serializedVersion: 2
     key0: {r: 0.47192413, g: 1, b: 0.46226418, a: 1}
-    key1: {r: 1, g: 1, b: 1, a: 0.47058824}
+    key1: {r: 1, g: 1, b: 1, a: 0}
     key2: {r: 0, g: 0, b: 0, a: 0.47058824}
     key3: {r: 0, g: 0, b: 0, a: 0}
     key4: {r: 0, g: 0, b: 0, a: 0}
@@ -32,7 +32,7 @@ MonoBehaviour:
     ctime5: 0
     ctime6: 0
     ctime7: 0
-    atime0: 0
+    atime0: 26214
     atime1: 65535
     atime2: 65535
     atime3: 0
@@ -43,3 +43,5 @@ MonoBehaviour:
     m_Mode: 0
     m_NumColorKeys: 2
     m_NumAlphaKeys: 2
+  firstExplosionColor: {r: 0.37775695, g: 1, b: 0.1745283, a: 1}
+  secondExplosionColor: {r: 0, g: 1, b: 0.42973852, a: 1}

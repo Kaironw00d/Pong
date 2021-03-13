@@ -4,15 +4,75 @@
     <e p="$USER_HOME$/.cache/JetBrains/Rider2020.3/extResources" t="IncludeRecursive" />
     <e p="$USER_HOME$/.cache/JetBrains/Rider2020.3/resharper-host/local/Transient/Rider/v203/SolutionCaches/_Pong.1260820973.00" t="ExcludeRecursive" />
     <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
+        <e p="Plugins" t="Include">
+          <e p="LeanTween" t="Include">
+            <e p="Editor" t="Include">
+              <e p="LeanTweenDocumentationEditor.cs" t="Include" />
+            </e>
+            <e p="Examples" t="Include">
+              <e p="Archived" t="Include">
+                <e p="2dUnlitWithFade.shader" t="Include" />
+                <e p="OldGUIExamplesCS.cs" t="Include" />
+                <e p="TestingPunch.cs" t="Include" />
+                <e p="TestingRigidbodyCS.cs" t="Include" />
+              </e>
+              <e p="Scripts" t="Include">
+                <e p="Following.cs" t="Include" />
+                <e p="GeneralAdvancedTechniques.cs" t="Include" />
+                <e p="GeneralBasic.cs" t="Include" />
+                <e p="GeneralBasics2d.cs" t="Include" />
+                <e p="GeneralCameraShake.cs" t="Include" />
+                <e p="GeneralEasingTypes.cs" t="Include" />
+                <e p="GeneralEventsListeners.cs" t="Include" />
+                <e p="GeneralSequencer.cs" t="Include" />
+                <e p="GeneralSimpleUI.cs" t="Include" />
+                <e p="GeneralUISpace.cs" t="Include" />
+                <e p="LogoCinematic.cs" t="Include" />
+                <e p="PathBezier.cs" t="Include" />
+                <e p="PathBezier2d.cs" t="Include" />
+                <e p="PathSpline.cs" t="Include" />
+                <e p="PathSpline2d.cs" t="Include" />
+                <e p="PathSplineEndless.cs" t="Include" />
+                <e p="PathSplinePerformance.cs" t="Include" />
+                <e p="PathSplineTrack.cs" t="Include" />
+                <e p="PathSplines.cs" t="Include" />
+                <e p="TestingUnitTests.cs" t="Include" />
+                <e p="TestingZLegacy.cs" t="Include" />
+                <e p="TestingZLegacyExt.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Framework" t="Include">
+              <e p="LTDescr.cs" t="Include" />
+              <e p="LTDescrOptional.cs" t="Include" />
+              <e p="LTSeq.cs" t="Include" />
+              <e p="LeanAudio.cs" t="Include" />
+              <e p="LeanSmooth.cs" t="Include" />
+              <e p="LeanTest.cs" t="Include" />
+              <e p="LeanTween.cs" t="Include" />
+              <e p="LeanTweenExt.cs" t="Include" />
+            </e>
+            <e p="License.txt" t="Include" />
+            <e p="ReadMe.txt" t="Include" />
+          </e>
+        </e>
         <e p="Scripts" t="Include">
+          <e p="Audio" t="Include">
+            <e p="AudioService.cs" t="Include" />
+            <e p="Sound.cs" t="Include" />
+            <e p="SoundSource.cs" t="Include" />
+          </e>
+          <e p="BackgroundParalax.cs" t="Include" />
           <e p="Ball" t="Include">
             <e p="BallController.cs" t="Include" />
             <e p="BallSettings.cs" t="Include" />
             <e p="BallSkin.cs" t="Include" />
             <e p="BallSkinChanger.cs" t="Include" />
             <e p="BallSkinsDatabase.cs" t="Include" />
+            <e p="TargetGameObjectPooled.cs" t="Include" />
           </e>
           <e p="BaseSkinDatabase.cs" t="Include" />
           <e p="Game States" t="Include">
@@ -21,7 +81,7 @@
             <e p="GameOverState.cs" t="Include" />
             <e p="GameplayState.cs" t="Include" />
             <e p="MainMenuState.cs" t="Include" />
-            <e p="SettingsState.cs" t="Include" />
+            <e p="ShopState.cs" t="Include" />
           </e>
           <e p="GameObjectPool.cs" t="Include" />
           <e p="GoalTriggerHandler.cs" t="Include" />
@@ -29,6 +89,7 @@
             <e p="InputActions.cs" t="Include" />
           </e>
           <e p="Interfaces" t="Include">
+            <e p="IAudioService.cs" t="Include" />
             <e p="IInputService.cs" t="Include" />
             <e p="IPlayerSettings.cs" t="Include" />
             <e p="ISettings.cs" t="Include" />
@@ -52,12 +113,11 @@
             <e p="TabContent.cs" t="Include" />
             <e p="TabGroup.cs" t="Include" />
           </e>
-          <e p="TargetGameObjectPooled.cs" t="Include" />
           <e p="UI" t="Include">
             <e p="GameOverUI.cs" t="Include" />
             <e p="GameplayUI.cs" t="Include" />
             <e p="MainMenuUI.cs" t="Include" />
-            <e p="SettingUI.cs" t="Include" />
+            <e p="ShopUI.cs" t="Include" />
           </e>
         </e>
       </e>
