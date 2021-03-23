@@ -7,9 +7,12 @@ public class GameplayState : BaseGameState
     [SerializeField] private GameObject gameplayEnvironment;
     [SerializeField] private GoalTriggerHandler goalTrigger;
 
+    private Canvas _gameplayCanvas;
+
     protected override void Awake()
     {
         base.Awake();
+        _gameplayCanvas = gameplayUI.GetComponent<Canvas>();
         gameplayUI.OnMainMenuButtonClick += () => ChangeState(GameState.MainMenu);
         goalTrigger.OnGoalAreaEnter += () => ChangeState(GameState.GameOver);
     }
@@ -22,7 +25,7 @@ public class GameplayState : BaseGameState
         ToggleEnvironment(true);
     }
 
-    private void ToggleUI(bool value) => gameplayUI.gameObject.SetActive(value);
+    private void ToggleUI(bool value) => _gameplayCanvas.enabled = value;
     private void ToggleEnvironment(bool value) => gameplayEnvironment.SetActive(value);
 
     protected override void ChangeState(GameState state)
