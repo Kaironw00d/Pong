@@ -2,5 +2,4 @@
 # Pong Star
 
 Preview
-https://user-images.githubusercontent.com/70921648/112343038-6ecb5080-8ccb-11eb-99aa-7d3d6b7149af.mp4
-
+![pongstar1](https://user-images.githubusercontent.com/70921648/112347518-98867680-8ccf-11eb-9152-f2f8d05b9826.gif)
